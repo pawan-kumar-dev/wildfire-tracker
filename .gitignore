@@ -10,8 +10,10 @@
 
 # production
 /build
-
+key.js
 # misc
+.gitignore
+
 .DS_Store
 .env.local
 .env.development.local
