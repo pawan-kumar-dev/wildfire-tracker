@@ -1,1 +1,1 @@
-export const key = 'AIzaSyDQDQIsyatjLgBn4EnIXKPQ46WzD418bBw'
+export const key = 'YOUR_MAP_API_KEY'
